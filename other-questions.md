@@ -3,11 +3,11 @@ The purpose of this file is for you to demonstrate your knowledge of working wit
 
 ```bash
 # Print your working directory
-
+pwd
 # List the files in your current directory
-
+ls
 # Change your directory to a folder in which you do work for this class
-
+cd info201
 # Clone your assignment repository from GitHub to your machine
 
 # Using a *relative path*, change your directory to inside the repository you just cloned
@@ -31,4 +31,3 @@ Search Google for *git cheat sheets*, look through several, and choose your favo
 
 
 Search Google for *markdown cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
-
