@@ -28,6 +28,11 @@ A cheet sheet is a website (or document) that has a list of commonly used comman
 
 Search Google for *git cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
 
+https://education.github.com/git-cheat-sheet-education.pdf
+This was my favorite git cheat sheet because I really liked the easy-to-read format and the associated descriptions for various functions were simple and easy to understand.
 
 
 Search Google for *markdown cheat sheets*, look through several, and choose your favorite. Below copy the url of your favorite one and below it write a sentence explaining why that one was your favorite.
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+This was my favorite markdown cheat sheet because it was really comprehensive and had a table of contents I could easily reference to find all the syntax I needed.
